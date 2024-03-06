@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.f293c909.js",
+    "static/js/415.052b9dc0.chunk.js": "/static/js/415.052b9dc0.chunk.js",
+    "static/js/787.6a358073.chunk.js": "/static/js/787.6a358073.chunk.js",
+    "static/media/Untitled.png": "/static/media/Untitled.2eb16adc23faea36f3aa.png",
+    "static/media/blog.png": "/static/media/blog.dec547ac3787319d99ee.png",
+    "static/media/Anish-Mane.pdf": "/static/media/Anish-Mane.ac6065973b9e5c0c39ce.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Duplexa.png": "/static/media/Duplexa.8143461eea47de31b814.png",
+    "static/media/keep.jpg": "/static/media/keep.f9be83987711db2b05a8.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.f293c909.js.map": "/static/js/main.f293c909.js.map",
+    "415.052b9dc0.chunk.js.map": "/static/js/415.052b9dc0.chunk.js.map",
+    "787.6a358073.chunk.js.map": "/static/js/787.6a358073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.f293c909.js"
+  ]
+}
