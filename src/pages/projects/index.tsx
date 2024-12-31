@@ -27,11 +27,7 @@ const ProjectsPage: NextPage<ProjectsPageProps> = ({ projects }) => {
       <NextSeo title={`${PAGE_TITLE}`} description={PAGE_DESCRIPTION} />
       <Container data-aos="fade-up">
         <PageHeading title={PAGE_TITLE} description={PAGE_DESCRIPTION} />
-        <Projects
-          projects={projects.slice(0, visibleProjects)}
-          loadMore={loadMore}
-          hasMore={hasMore}
-        />
+        <Projects/>
       </Container>
     </>
   );

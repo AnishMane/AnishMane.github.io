@@ -43,7 +43,7 @@ const ProjectsDetailPage: NextPage<ProjectsDetailPageProps> = ({ project }) => {
       <Container data-aos="fade-up">
         <BackButton url="/projects" />
         <PageHeading title={PAGE_TITLE} description={PAGE_DESCRIPTION} />
-        <ProjectDetail {...project} />
+        <ProjectDetail />
       </Container>
     </>
   );

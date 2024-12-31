@@ -13,7 +13,6 @@ const editorConfig = {
   minimap: {
     enabled: false,
   },
-  wordWrap: 'on',
   scrollbar: {
     verticalScrollbarSize: 9,
   },
