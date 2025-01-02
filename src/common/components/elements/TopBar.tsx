@@ -6,7 +6,7 @@ const TopBar = () => {
       <span>🚀</span>
       <span>Just launched my landing page website. check it out :</span>
       <a
-        href='https://aulianza.com/?utm_source=aulianza.id&utm_medium=referral&ref=aulianza.id'
+        href='https://aulianza.com/?utm_source=anishmane.com&utm_medium=referral&ref=anishmane.com'
         target='_blank'
         className='ml-0.5 underline'
       >
